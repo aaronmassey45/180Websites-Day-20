@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Covered+By+Your+Grace|Permanent+Marker");
+body {
+  background-color: lightgrey;
+}
+.navbar {
+  border-radius: 0;
+}
+.text-help {
+  color: red;
+}
+form a {
+  margin-left: 10px;
+}
+span {
+  float: right;
+}
+.mt {
+  margin-top: 10px;
+}
+.noteContent {
+  font-family: 'Permanent Marker', cursive;
+}
+.header {
+  font-family: 'Covered By Your Grace', cursive;
+}
